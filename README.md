@@ -1,6 +1,6 @@
 For English please contact me.
 
-  Projemde, Güneş ışığının şiddetinin fazla olduğu günlerde ışıktan maksimum seviyede yararlanmak adına perdeleri açarak zaman ve iş kaybının önüne geçilmesi düşünülmüştür. Sınıf, iş yeri gibi kalabalık ortamlar için tasarlanmıştır. Işık şiddeti çok ise DC motor çalışsın perde açılsın (motorun + yönde dönmesi), ışık şiddeti az ise DC motor çalışsın perde kapansın (motorun – yönde dönmesi). Böylece çalışanların zaman kayıplarının olmaması ve C vitamininden faydalanmalarını amaçlanmıştır. 
+  Projemde, Güneş ışığının şiddetinin fazla olduğu günlerde ışıktan maksimum seviyede yararlanmak adına perdeleri açarak zaman ve iş kaybının önüne geçilmesi düşünülmüştür. Sınıf, iş yeri gibi kalabalık ortamlar için tasarlanmıştır. Işık şiddeti çok ise DC motor çalışsın perde açılsın (motorun + yönde dönmesi), ışık şiddeti az ise DC motor çalışsın perde kapansın (motorun – yönde dönmesi). Böylece çalışanların zaman kayıplarının olmaması ve C vitamininden faydalanmaları amaçlanmıştır. 
 
 Kullanılan Malzemeler:
 -Raspberry Pi 3         (1 Adet)
